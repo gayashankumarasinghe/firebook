@@ -1,6 +1,6 @@
 {
-  "name": "servicebooking",
-  "version": "0.0.0",
+  "name": "servicebookingstore",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
